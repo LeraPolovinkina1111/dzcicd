@@ -1,5 +1,3 @@
-Код файла .gitlab-ci.yml для pipline:
-
 image: busybox:latest
 
 stages:
