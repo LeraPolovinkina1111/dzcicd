@@ -58,7 +58,9 @@ pages:
     artifacts:
         exclude:
             - public/404.html
-        paths:
+        paths:![dz2 2 2](https://github.com/LeraPolovinkina1111/dzcicd/assets/118594531/14c09c17-2a89-48c3-be02-e08426f1b6ce)
+![дз2 2](https://github.com/LeraPolovinkina1111/dzcicd/assets/118594531/299564a5-a57f-4b1b-9a7f-7922282a7ee9)
+
             - public
     only:
         - main
