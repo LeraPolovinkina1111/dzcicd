@@ -1,3 +1,5 @@
+Код файла `.gitlab-ci.yml` для pipline:
+```
 image: busybox:latest
 
 stages:
@@ -62,6 +64,8 @@ pages:
             - public
     only:
         - main
+```
+Результаты работы:
     artifacts:
         exclude:
             - public/404.html
